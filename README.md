@@ -1,4 +1,4 @@
-# Aula 1
+# Aula 1 📓
 ## Lógica de programação
 Aprendemos nessa aula que **Lógica de programação** é a organização de uma sequência de passos para alcançar um objetivo.
 Foi mostrado também os pilares do pensamento computacional, são eles:
