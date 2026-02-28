@@ -11,7 +11,10 @@ E usamos essas informações para fazer a atividade.
 Segue o link do github com a resolução dos problemas
 
 ## Atividade de Logica de programação
-
+Os arquivos da atividades estão fixados no **branch** logo acima, com os nomes:
+- Desfio da travessia
+- Logistica de e-commerce
+- Algoritmo de navegação
 
 
 
